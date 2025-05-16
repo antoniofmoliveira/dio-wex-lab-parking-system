@@ -71,6 +71,7 @@ static void RemoveVehicleByLicensePlate(List<Vehicle> vehicles, int initialFee, 
 /// </summary>
 static void Exit()
 {
+    Console.WriteLine("Good bye");
     Environment.Exit(0);
 }
 

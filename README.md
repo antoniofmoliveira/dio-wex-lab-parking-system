@@ -5,12 +5,14 @@
 * list vehicles
 * exit
 
+```bash
 menu
 
 1 - Add vehicle
 2 - Remove vehicle
 3 - List vehicles
 4 - Exit
+```
 
 System
 
@@ -20,7 +22,7 @@ System
 
 Vehicle
 
-* plate
+* license plate
 
 Add vehicle
 
